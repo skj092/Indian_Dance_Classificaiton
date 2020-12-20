@@ -1,2 +1,2 @@
-# Indian_Dance_Classificaiton
+# Indian_Dance_Classification
 description
